@@ -440,6 +440,7 @@
 		width:100%;
 	}
 }
+
 @media (max-width: 480px){ 
 	/* remove image category */
 	.cart-banner-top.hidden-xs{
@@ -661,11 +662,14 @@
 	.block-currency .currency-name{
 		border:none;
 	}
+	
 }
 @media (max-width: 360px){
 	.add-to-cart .add-cart-btn.btn{
 		width:54%;
 	}
+
+	
 	.th_hidden{
 		display:none;
 	}

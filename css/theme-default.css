@@ -720,7 +720,7 @@ a.product-name:hover{
   padding-top: 35px;
 }
 .main-header .logo.hd-pd{
-	padding:22px 0px;
+	padding:31px 0px;
 }
 /*Main menu ----------------------------------*/
 .main-menu > ul > li{
@@ -845,7 +845,7 @@ a.product-name:hover{
 }
 /*Menu all product --------------------------------------*/
 #main-menu ul li.all-product ul.level0{
-  height: 450px;
+  height: 237px;
 }
 #main-menu ul li.all-product ul.level1{
   display: block;
@@ -2641,9 +2641,8 @@ ul.cate_list li.parent a.active i.fa-minus{
   z-index: 100;
   display: none;
 }
-.cate-filter-content:hover ul{
-  /*display: block;*/
-}
+/* .cate-filter-content:hover ul{
+} */
 .cate-filter-content ul li{
   padding: 0 15px;
   font-size: 12px;
@@ -5002,7 +5001,7 @@ h1.ct-header{
 }
 #aboutbottom .col-md-6 img{
 	float:left;
-	width:18%
+	width:18%;
 	max-width:80px;
 }
 #aboutbottom .col-md-6  .data{
